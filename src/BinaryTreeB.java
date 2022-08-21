@@ -119,6 +119,21 @@ public class BinaryTreeB {
         return myHeight;
     }
 
+    // Diameter of a tree
+    // Approach 1 O(n*2)
+    public static int diameter(Node root) {
+        if (root == null) {
+            return 0;
+        }
+        int diam1 = diameter(root.left);
+        int diam2 = diameter(root.right);
+        int diam3 = height(root.left) + height(root.right) + 1;
+        return Math.max(diam3, Math.max(diam1, diam2)); 
+    }
+
+    // Diameter of a tree TODO
+    // Approach 2 O(n)
+
     public static void main(String[] args) {
         int nodes[] = { 1, 2, 4, -1, -1, 5, -1, -1, 3, -1, 6, -1, -1 };
         BinaryTree tree = new BinaryTree();
@@ -130,6 +145,7 @@ public class BinaryTreeB {
         // levelOrder(root);
         // System.out.println(countOfNodes(root));
         // System.out.println(sumOfNodes(root));
-        System.out.println(height(root));
+        // System.out.println(height(root));
+        System.out.println(diameter(root));
     }
 }
