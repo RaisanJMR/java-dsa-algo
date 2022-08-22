@@ -145,7 +145,7 @@ public class BinaryTreeB {
         // levelOrder(root);
         // System.out.println(countOfNodes(root));
         // System.out.println(sumOfNodes(root));
-        // System.out.println(height(root));
-        System.out.println(diameter(root));
+        System.out.println(height(root));
+        // System.out.println(diameter(root));
     }
 }
