@@ -1,6 +1,10 @@
 import java.util.*;
 
 // Find max diameter of a BST
+
+// O(n)
+
+
 public class BinaryTreeA {
 
     static class Node {
