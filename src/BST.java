@@ -48,7 +48,7 @@ public class BST {
             root.right = deleteNode(root.right, val);
         } else {
             // root.data == val
-            
+
             // CASE 1
             if (root.left == null && root.right == null) {
                 return null;
