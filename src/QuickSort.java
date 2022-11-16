@@ -1,7 +1,9 @@
+
+// https://www.codepile.net/pile/X6lXog6G
 import java.util.Random;
 
 public class QuickSort {
-
+    // QuickSort
     private static void quicksort(int[] array, int lowIndex, int highIndex) {
         if (lowIndex >= highIndex) {
             return;
@@ -24,15 +26,17 @@ public class QuickSort {
         quicksort(array, leftPointer + 1, highIndex);
     }
 
+    // Swap
     private static void swap(int[] array, int index1, int index2) {
         int temp = array[index1];
         array[index1] = array[index2];
         array[index2] = temp;
     }
 
+    // Print
     private static void printArray(int[] numbers) {
         for (int i = 0; i < numbers.length; i++) {
-            System.out.print(numbers[i]+"\t");
+            System.out.print(numbers[i] + "\t");
         }
     }
 
@@ -53,4 +57,3 @@ public class QuickSort {
         printArray(numbers);
     }
 }
-
