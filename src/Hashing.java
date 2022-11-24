@@ -7,30 +7,31 @@ public class Hashing {
     public static void main(String[] args) {
         HashMap<String, Integer> map = new HashMap<>();
 
-        // Insertion
-        map.put("India", 120);
-        map.put("Usa", 30);
-        map.put("China", 200);
-        map.put("China", 150);
-        System.out.println(map);
+        map.put("INDIA", 120);
+        map.put("USA", 30);
+        map.put("CHINA", 190);
+        map.put("SPAIN", 20);
+        map.put("UK", 70);
+        map.put("CANADA", 15);
+        // System.out.println(map);
+        // SEARCH
+        // map.containsKey()
+        // map.get()
+        // for (int i = 0; i < args.length; i++) {
 
-        // Search
-        // map.containsKey(key)
+        // }
+        // String car[] = { "ford", "benz" };
+        // for (String val : car) {
+        // System.out.println(val);
+        // }
+        // for (Map.Entry<String, Integer> entry : map.entrySet()) {
+        // System.out.println(entry.getKey() + "->" + entry.getValue());
 
-        // map.get("<key>");0
-
-        // for(int val:arr)
-
-        // for (Map.Entry<String, Integer> e : map.entrySet()) {
-        // System.out.println(e.getKey());
-        // System.out.println(e.getValue());
         // }
 
         Set<String> keys = map.keySet();
         for (String key : keys) {
-            System.out.println(key + " " + map.get(key));
+            System.out.println(key + "  " + map.get(key));
         }
-
-        // map.remove();
     }
 }
