@@ -2,6 +2,8 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
+// O(1)
+// implemented array of LL
 // Unordered map
 public class Hashing {
     public static void main(String[] args) {
@@ -17,6 +19,8 @@ public class Hashing {
         // SEARCH
         // map.containsKey()
         // map.get()
+        // map.remove()
+        // map.size()
         // for (int i = 0; i < args.length; i++) {
 
         // }
@@ -24,10 +28,10 @@ public class Hashing {
         // for (String val : car) {
         // System.out.println(val);
         // }
-        // for (Map.Entry<String, Integer> entry : map.entrySet()) {
-        // System.out.println(entry.getKey() + "->" + entry.getValue());
+        for (Map.Entry<String, Integer> entry : map.entrySet()) {
+        System.out.println(entry.getKey() + "->" + entry.getValue());
 
-        // }
+        }
 
         Set<String> keys = map.keySet();
         for (String key : keys) {
