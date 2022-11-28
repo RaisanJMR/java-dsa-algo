@@ -28,10 +28,10 @@ public class Hashing {
         // for (String val : car) {
         // System.out.println(val);
         // }
-        for (Map.Entry<String, Integer> entry : map.entrySet()) {
-        System.out.println(entry.getKey() + "->" + entry.getValue());
+        // for (Map.Entry<String, Integer> entry : map.entrySet()) {
+        // System.out.println(entry.getKey() + "->" + entry.getValue());
 
-        }
+        // }
 
         Set<String> keys = map.keySet();
         for (String key : keys) {
