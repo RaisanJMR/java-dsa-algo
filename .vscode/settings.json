@@ -1,5 +1,5 @@
 {
-  "java.project.sourcePaths": ["src", "src/graph", "src/leetcode/arrays"],
+  "java.project.sourcePaths": ["src", "src/graph", "src/leetcode/arrays","src/basics"],
   "java.project.outputPath": "bin",
   "java.project.referencedLibraries": ["lib/**/*.jar"]
 }
