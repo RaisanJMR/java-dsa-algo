@@ -1,5 +1,6 @@
 import java.util.*;
 
+// https://leetcode.com/problems/sort-array-by-increasing-frequency/
 public class FreqArrSort {
     public static int[] freqSort(int[] nums) {
         Map<Integer, Integer> map = new HashMap<>();

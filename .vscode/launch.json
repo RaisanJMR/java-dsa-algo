@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Classroom",
+            "request": "launch",
+            "mainClass": "Classroom",
+            "projectName": "java-dsa-algo_ab933b00"
+        },
+        {
+            "type": "java",
+            "name": "Launch Classroom",
+            "request": "launch",
+            "mainClass": "trie.Classroom",
+            "projectName": "java-dsa-algo_ab933b00"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "RemoveDuplicate",
+            "projectName": "java-dsa-algo_ab933b00"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
