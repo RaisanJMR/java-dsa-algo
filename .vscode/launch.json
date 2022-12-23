@@ -1,273 +1,287 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Launch Classroom",
-            "request": "launch",
-            "mainClass": "Classroom",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch Classroom",
-            "request": "launch",
-            "mainClass": "trie.Classroom",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch RemoveDuplicate",
-            "request": "launch",
-            "mainClass": "RemoveDuplicate",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Launch AdjMatrix",
-            "request": "launch",
-            "mainClass": "AdjMatrix",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch App",
-            "request": "launch",
-            "mainClass": "App",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch BST",
-            "request": "launch",
-            "mainClass": "BST",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch BSTPrintInRange",
-            "request": "launch",
-            "mainClass": "BSTPrintInRange",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch BinaryTreeA",
-            "request": "launch",
-            "mainClass": "BinaryTreeA",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch BinaryTreeB",
-            "request": "launch",
-            "mainClass": "BinaryTreeB",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch BubbleSort",
-            "request": "launch",
-            "mainClass": "BubbleSort",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch Dog",
-            "request": "launch",
-            "mainClass": "Dog",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch Factorial",
-            "request": "launch",
-            "mainClass": "Factorial",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch FreqArrSort",
-            "request": "launch",
-            "mainClass": "FreqArrSort",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch GenericsEg",
-            "request": "launch",
-            "mainClass": "GenericsEg",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch Hash",
-            "request": "launch",
-            "mainClass": "Hash",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch HashMapCode",
-            "request": "launch",
-            "mainClass": "HashMapCode",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch Hashing",
-            "request": "launch",
-            "mainClass": "Hashing",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch InsertionSort",
-            "request": "launch",
-            "mainClass": "InsertionSort",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch IsAnagram",
-            "request": "launch",
-            "mainClass": "IsAnagram",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch IsAnagramOne",
-            "request": "launch",
-            "mainClass": "IsAnagramOne",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch ListInterface",
-            "request": "launch",
-            "mainClass": "ListInterface",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch LongestPalSubstr",
-            "request": "launch",
-            "mainClass": "LongestPalSubstr",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch LongestSubstring",
-            "request": "launch",
-            "mainClass": "LongestSubstring",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch MergeSort",
-            "request": "launch",
-            "mainClass": "MergeSort",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch PalindromeNumber",
-            "request": "launch",
-            "mainClass": "PalindromeNumber",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch QuickSort",
-            "request": "launch",
-            "mainClass": "QuickSort",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch RLPath",
-            "request": "launch",
-            "mainClass": "RLPath",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch SampleOne",
-            "request": "launch",
-            "mainClass": "SampleOne",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch SelectionSort",
-            "request": "launch",
-            "mainClass": "SelectionSort",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch SortPeople",
-            "request": "launch",
-            "mainClass": "SortPeople",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch Student",
-            "request": "launch",
-            "mainClass": "Student",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch SubTreeAnother",
-            "request": "launch",
-            "mainClass": "SubTreeAnother",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch ThreeSum",
-            "request": "launch",
-            "mainClass": "ThreeSum",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch TwoSum",
-            "request": "launch",
-            "mainClass": "TwoSum",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch TwoSum2",
-            "request": "launch",
-            "mainClass": "TwoSum2",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch UnEqualTriplets",
-            "request": "launch",
-            "mainClass": "UnEqualTriplets",
-            "projectName": "java-dsa-algo_ab933b00"
-        },
-        {
-            "type": "java",
-            "name": "Launch ValidParentheses",
-            "request": "launch",
-            "mainClass": "ValidParentheses",
-            "projectName": "java-dsa-algo_ab933b00"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch ClassroomHashmap",
+      "request": "launch",
+      "mainClass": "ClassroomHashmap",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch Classroom",
+      "request": "launch",
+      "mainClass": "hashmap.Classroom",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch Classroom",
+      "request": "launch",
+      "mainClass": "Classroom",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch Classroom",
+      "request": "launch",
+      "mainClass": "trie.Classroom",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch RemoveDuplicate",
+      "request": "launch",
+      "mainClass": "RemoveDuplicate",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch AdjMatrix",
+      "request": "launch",
+      "mainClass": "AdjMatrix",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch BST",
+      "request": "launch",
+      "mainClass": "BST",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch BSTPrintInRange",
+      "request": "launch",
+      "mainClass": "BSTPrintInRange",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch BinaryTreeA",
+      "request": "launch",
+      "mainClass": "BinaryTreeA",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch BinaryTreeB",
+      "request": "launch",
+      "mainClass": "BinaryTreeB",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch BubbleSort",
+      "request": "launch",
+      "mainClass": "BubbleSort",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch Dog",
+      "request": "launch",
+      "mainClass": "Dog",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch Factorial",
+      "request": "launch",
+      "mainClass": "Factorial",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch FreqArrSort",
+      "request": "launch",
+      "mainClass": "FreqArrSort",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch GenericsEg",
+      "request": "launch",
+      "mainClass": "GenericsEg",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch Hash",
+      "request": "launch",
+      "mainClass": "Hash",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch HashMapCode",
+      "request": "launch",
+      "mainClass": "HashMapCode",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch Hashing",
+      "request": "launch",
+      "mainClass": "Hashing",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch InsertionSort",
+      "request": "launch",
+      "mainClass": "InsertionSort",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch IsAnagram",
+      "request": "launch",
+      "mainClass": "IsAnagram",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch IsAnagramOne",
+      "request": "launch",
+      "mainClass": "IsAnagramOne",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch ListInterface",
+      "request": "launch",
+      "mainClass": "ListInterface",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch LongestPalSubstr",
+      "request": "launch",
+      "mainClass": "LongestPalSubstr",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch LongestSubstring",
+      "request": "launch",
+      "mainClass": "LongestSubstring",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch MergeSort",
+      "request": "launch",
+      "mainClass": "MergeSort",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch PalindromeNumber",
+      "request": "launch",
+      "mainClass": "PalindromeNumber",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch QuickSort",
+      "request": "launch",
+      "mainClass": "QuickSort",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch RLPath",
+      "request": "launch",
+      "mainClass": "RLPath",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch SampleOne",
+      "request": "launch",
+      "mainClass": "SampleOne",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch SelectionSort",
+      "request": "launch",
+      "mainClass": "SelectionSort",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch SortPeople",
+      "request": "launch",
+      "mainClass": "SortPeople",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch Student",
+      "request": "launch",
+      "mainClass": "Student",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch SubTreeAnother",
+      "request": "launch",
+      "mainClass": "SubTreeAnother",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch ThreeSum",
+      "request": "launch",
+      "mainClass": "ThreeSum",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch TwoSum",
+      "request": "launch",
+      "mainClass": "TwoSum",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch TwoSum2",
+      "request": "launch",
+      "mainClass": "TwoSum2",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch UnEqualTriplets",
+      "request": "launch",
+      "mainClass": "UnEqualTriplets",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch ValidParentheses",
+      "request": "launch",
+      "mainClass": "ValidParentheses",
+      "projectName": "java-dsa-algo_ab933b00"
+    }
+  ]
 }

@@ -21,21 +21,21 @@ public class Hashing {
         // map.get()
         // map.remove()
         // map.size()
-        // for (int i = 0; i < args.length; i++) {
-
-        // }
-        // String car[] = { "ford", "benz" };
+        String car[] = { "ford", "benz" };
+        for (int i = 0; i < car.length; i++) {
+            System.out.println(car[i]);
+        }
         // for (String val : car) {
-        // System.out.println(val);
+        //     System.out.println(val);
         // }
         // for (Map.Entry<String, Integer> entry : map.entrySet()) {
         // System.out.println(entry.getKey() + "->" + entry.getValue());
 
         // }
 
-        Set<String> keys = map.keySet();
-        for (String key : keys) {
-            System.out.println(key + "  " + map.get(key));
-        }
+        // Set<String> keys = map.keySet();
+        // for (String key : keys) {
+        // System.out.println(key + " " + map.get(key));
+        // }
     }
 }
