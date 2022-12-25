@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch SubArray",
+      "request": "launch",
+      "mainClass": "SubArray",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch ClassroomHashmap",
       "request": "launch",
       "mainClass": "ClassroomHashmap",
