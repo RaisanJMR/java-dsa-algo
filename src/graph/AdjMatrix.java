@@ -1,6 +1,6 @@
-// Adjacency Matrix representation in Java
 
-// https://www.programiz.com/dsa/graph-adjacency-matrix
+
+
 
 public class AdjMatrix {
     private int adjMatrix[][];
