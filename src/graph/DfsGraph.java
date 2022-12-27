@@ -1,8 +1,10 @@
 
-// * BFS in graph
+/**
+ * DfsGraph
+ */
 import java.util.*;
 
-public class BfsGraph {
+public class DfsGraph {
     static class Edge {
         int source;
         int destination;
@@ -44,35 +46,32 @@ public class BfsGraph {
         // System.out.print("graph created");
     }
 
-    public static void bfs(ArrayList<Edge> graph[]) { // O(V+E)
-        Queue<Integer> q = new LinkedList<>();
-        boolean vis[] = new boolean[graph.length];
-        q.add(0); // source 0
+    public static void dfs(ArrayList<Edge> graph[], int curr, boolean vis[]) { // O(V+E)
+        System.out.print(curr + " ");
+        vis[curr] = true;
 
-        // System.out.println(q.isEmpty());
-        while (!q.isEmpty()) {
-            int curr = q.remove();
-            if (!vis[curr]) {
-                System.out.print(curr + " ");
-                vis[curr] = true;
-                // System.out.println("size"+graph[curr].size());
-                for (int i = 0; i < graph[curr].size(); i++) {
-                    Edge e = graph[curr].get(i);
-                    q.add(e.destination);
-                }
+        for (int i = 0; i < graph[curr].size(); i++) {
+            Edge e = graph[curr].get(i);
+            if (!vis[e.destination]) {
+                dfs(graph, e.destination, vis);
             }
         }
     }
 
     public static void main(String[] args) {
-        // 1--------3
-        // / | \
-        // 0 | 5----6
-        // \ | /
-        // 2---------4
+
+        /*
+         * 1--------3
+         * /       |  \
+         * 0       |   5----6
+         * \       |  /
+         * 2---------4
+         * 
+         */
         int V = 7;
         ArrayList<Edge> graph[] = new ArrayList[V];
         createGraph(graph);
-        bfs(graph);
+        dfs(graph, 0, new boolean[V]);
     }
+
 }
