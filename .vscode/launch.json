@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch connectedComponentsBfs",
+      "request": "launch",
+      "mainClass": "connectedComponentsBfs",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch connectedComponentsDfs",
+      "request": "launch",
+      "mainClass": "connectedComponentsDfs",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch Graph",
+      "request": "launch",
+      "mainClass": "Graph",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch connectedComponents",
+      "request": "launch",
+      "mainClass": "connectedComponents",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch DfsGraph",
       "request": "launch",
       "mainClass": "DfsGraph",
