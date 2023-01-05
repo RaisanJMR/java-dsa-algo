@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch isBipartite",
+      "request": "launch",
+      "mainClass": "isBipartite",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch cycleDetect",
+      "request": "launch",
+      "mainClass": "cycleDetect",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch connectedComponentsBfs",
       "request": "launch",
       "mainClass": "connectedComponentsBfs",
