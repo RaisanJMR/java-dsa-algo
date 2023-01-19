@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch SourceToTargetGraph",
+      "request": "launch",
+      "mainClass": "SourceToTargetGraph",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch BFSTopoSort",
+      "request": "launch",
+      "mainClass": "BFSTopoSort",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch DFSTopoSort",
+      "request": "launch",
+      "mainClass": "DFSTopoSort",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch TopoSort",
+      "request": "launch",
+      "mainClass": "TopoSort",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch cycleDetectDirected",
+      "request": "launch",
+      "mainClass": "cycleDetectDirected",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch isBipartite",
       "request": "launch",
       "mainClass": "isBipartite",
