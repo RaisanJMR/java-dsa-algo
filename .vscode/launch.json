@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch BellmanFord",
+      "request": "launch",
+      "mainClass": "BellmanFord",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch LearnInterface",
+      "request": "launch",
+      "mainClass": "LearnInterface",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch DijkstrasAlgo",
+      "request": "launch",
+      "mainClass": "DijkstrasAlgo",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch SourceToTargetGraph",
       "request": "launch",
       "mainClass": "SourceToTargetGraph",
