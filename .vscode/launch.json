@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch connectCities",
+      "request": "launch",
+      "mainClass": "connectCities",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch cheapFlightWithkStops",
+      "request": "launch",
+      "mainClass": "cheapFlightWithkStops",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch Prims",
       "request": "launch",
       "mainClass": "Prims",

@@ -79,6 +79,7 @@ public class Prims {
         System.out.println("final(min) cost of MST = " + finalCost);
     }
 
+    // !!!!!NEEDED REVISIT
     public static void main(String[] args) {
         int V = 4;
         ArrayList<Edge> graph[] = new ArrayList[V];
