@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch DisjointUnion",
+      "request": "launch",
+      "mainClass": "DisjointUnion",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch connectCities",
       "request": "launch",
       "mainClass": "connectCities",
