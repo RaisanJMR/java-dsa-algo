@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch FloodFillAlgo",
+      "request": "launch",
+      "mainClass": "FloodFillAlgo",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch KruskalAlgo",
       "request": "launch",
       "mainClass": "KruskalAlgo",

@@ -7,6 +7,7 @@
 import java.util.*;
 
 public class KruskalAlgo {
+
     static class Edge implements Comparable<Edge> {
         int src;
         int dest;
@@ -46,7 +47,7 @@ public class KruskalAlgo {
         }
     }
 
-    // TC 4K
+    // @ TC 4K
     public static int find(int x) {
         if (x == par[x]) {
             return x;
@@ -55,7 +56,7 @@ public class KruskalAlgo {
         return par[x] = find(par[x]);
     }
 
-    // TC 4K
+    // @ TC 4K
     public static void union(int a, int b) {
         int parA = find(a);
         int parB = find(b);
@@ -73,7 +74,7 @@ public class KruskalAlgo {
     // @ kruskal's implementation
     public static void kruskalsMST(ArrayList<Edge> edges, int V) {
         init();
-        Collections.sort(edges); // O(ElogE)
+        Collections.sort(edges); // @ O(ElogE)
         int mstCost = 0;
         int count = 0;
         for (int i = 0; count < V - 1; i++) {
