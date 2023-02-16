@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch TarjansAlgo",
+      "request": "launch",
+      "mainClass": "TarjansAlgo",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch KosarajusAlgo",
+      "request": "launch",
+      "mainClass": "KosarajusAlgo",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch FloodFillAlgo",
       "request": "launch",
       "mainClass": "FloodFillAlgo",
