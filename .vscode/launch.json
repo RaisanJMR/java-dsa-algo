@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch ArticulationPoint",
+      "request": "launch",
+      "mainClass": "ArticulationPoint",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch TarjansAlgo",
       "request": "launch",
       "mainClass": "TarjansAlgo",
