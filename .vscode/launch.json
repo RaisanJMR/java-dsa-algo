@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch FractionalKnapsack",
+      "request": "launch",
+      "mainClass": "FractionalKnapsack",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch ActivitySelectTwo",
       "request": "launch",
       "mainClass": "ActivitySelectTwo",
