@@ -5,7 +5,8 @@
     "src/leetcode/arrays",
     "src/basics",
     "src/trie",
-    "src/hashmap"
+    "src/hashmap",
+    "src/greedy"
   ],
   "java.project.outputPath": "bin",
   "java.project.referencedLibraries": ["lib/**/*.jar"]

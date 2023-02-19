@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch ActivitySelectTwo",
+      "request": "launch",
+      "mainClass": "ActivitySelectTwo",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch ActivitySelect",
+      "request": "launch",
+      "mainClass": "ActivitySelect",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch Greed",
+      "request": "launch",
+      "mainClass": "greedy.Greed",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch ArticulationPoint",
       "request": "launch",
       "mainClass": "ArticulationPoint",

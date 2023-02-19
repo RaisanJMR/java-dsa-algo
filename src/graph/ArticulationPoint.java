@@ -1,6 +1,7 @@
 
 // @ Articulation point in UD, UW graph
 // @ TC O(V+E)
+
 import java.util.*;
 
 public class ArticulationPoint {
@@ -8,7 +9,7 @@ public class ArticulationPoint {
         int src;
         int dest;
 
-        public Edge(int s, int d) {
+        public Edge(int s, int d) {  
             this.src = s;
             this.dest = d;
         }
@@ -81,6 +82,10 @@ public class ArticulationPoint {
         }
     }
 
+    /**
+     * @param graph
+     * @param V
+     */
     public static void getAP(ArrayList<Edge> graph[], int V) {
         int dt[] = new int[V];
         int low[] = new int[V];
