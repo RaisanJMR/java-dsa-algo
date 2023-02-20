@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch indianCoins",
+      "request": "launch",
+      "mainClass": "indianCoins",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch maxLengthChainOfPairs",
       "request": "launch",
       "mainClass": "maxLengthChainOfPairs",
