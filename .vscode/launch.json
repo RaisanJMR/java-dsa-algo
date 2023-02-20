@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch maxLengthChainOfPairs",
+      "request": "launch",
+      "mainClass": "maxLengthChainOfPairs",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch minAbsDiff",
+      "request": "launch",
+      "mainClass": "minAbsDiff",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch FractionalKnapsack",
       "request": "launch",
       "mainClass": "FractionalKnapsack",
