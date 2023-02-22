@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch PalindromeRecursive",
+      "request": "launch",
+      "mainClass": "PalindromeRecursive",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch bTwo",
+      "request": "launch",
+      "mainClass": "bTwo",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch pgmOne",
+      "request": "launch",
+      "mainClass": "pgmOne",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch bitOne",
+      "request": "launch",
+      "mainClass": "bitOne",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch bitOne",
+      "request": "launch",
+      "mainClass": "bitmask.bitOne",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch jobSelect",
+      "request": "launch",
+      "mainClass": "jobSelect",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch indianCoins",
       "request": "launch",
       "mainClass": "indianCoins",
