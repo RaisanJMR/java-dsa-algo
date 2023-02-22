@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch ArraySubsequenceRecursive",
+      "request": "launch",
+      "mainClass": "ArraySubsequenceRecursive",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch PalindromeRecursive",
       "request": "launch",
       "mainClass": "PalindromeRecursive",

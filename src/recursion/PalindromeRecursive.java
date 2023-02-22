@@ -18,7 +18,6 @@ public class PalindromeRecursive {
             return false;
         }
     }
-    
 
     public static void main(String[] args) {
         String str = "racecar";
