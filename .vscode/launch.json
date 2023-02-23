@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch printArrSubSeqSumOnce",
+      "request": "launch",
+      "mainClass": "printArrSubSeqSumOnce",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArraySubsequenceSum",
+      "request": "launch",
+      "mainClass": "ArraySubsequenceSum",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch ArraySubsequenceRecursive",
       "request": "launch",
       "mainClass": "ArraySubsequenceRecursive",
