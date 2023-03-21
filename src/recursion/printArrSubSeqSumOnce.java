@@ -1,4 +1,4 @@
-
+// @ program 3
 //  @ print array subsequence equalls sum only once
 import java.util.*;
 

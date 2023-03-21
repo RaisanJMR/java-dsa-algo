@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch ArraySubsequenceCount",
+      "request": "launch",
+      "mainClass": "ArraySubsequenceCount",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch printArrSubSeqSumOnce",
       "request": "launch",
       "mainClass": "printArrSubSeqSumOnce",

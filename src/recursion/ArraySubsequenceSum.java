@@ -1,4 +1,4 @@
-
+// @ program 2
 // @ O(2^n)
 // @ print array subsequence sum equals k
 import java.util.*;
