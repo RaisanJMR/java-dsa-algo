@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CombinationSumOne",
+      "request": "launch",
+      "mainClass": "CombinationSumOne",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "CombinationSum",
+      "request": "launch",
+      "mainClass": "CombinationSum",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Launch ArraySubsequenceCount",
       "request": "launch",
       "mainClass": "ArraySubsequenceCount",
