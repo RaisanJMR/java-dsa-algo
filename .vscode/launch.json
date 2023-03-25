@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CombinationSumTwo",
+      "request": "launch",
+      "mainClass": "CombinationSumTwo",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "CombinationSumOne",
       "request": "launch",
       "mainClass": "CombinationSumOne",
