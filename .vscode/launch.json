@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Subsets",
+      "request": "launch",
+      "mainClass": "Subsets",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "SubsetSumOne",
+      "request": "launch",
+      "mainClass": "SubsetSumOne",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "CombinationSumTwo",
       "request": "launch",
       "mainClass": "CombinationSumTwo",

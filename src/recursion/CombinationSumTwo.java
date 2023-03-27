@@ -10,7 +10,7 @@ public class CombinationSumTwo {
         }
         for (int i = index; i < arr.length; i++) {
             if (i > index && arr[i] == arr[i - 1])
-                continue;
+                continue;  
             if (arr[i] > target)
                 break;
 
@@ -24,8 +24,8 @@ public class CombinationSumTwo {
         List<List<Integer>> ans = new ArrayList<>();
         Arrays.sort(candidates);
         findCombinations(0, candidates, target, ans, new ArrayList<>());
-        return ans;
-    }
+        return ans; 
+    }     
  
     public static void main(String[] args) {
         int candidates[] = { 1, 1, 1, 2, 2 };
