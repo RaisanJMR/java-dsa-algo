@@ -7,7 +7,7 @@
 // The solution set must not contain duplicate subsets. Return the solution in any order.
 import java.util.*;
 
-public class Subsets {
+public class SubsetTwo {
     public static void solve(int ind, int[] nums, ArrayList<Integer> temp, List<List<Integer>> ans) {
         ans.add(new ArrayList<>(temp));
         for (int i = ind; i < nums.length; i++) {
@@ -20,7 +20,7 @@ public class Subsets {
     }
 
     public static List<List<Integer>> subsets(int[] nums) {
-        Arrays.sort(nums);
+        Arrays.sort(nums); 
         List<List<Integer>> ans = new ArrayList<>();
         solve(0, nums, new ArrayList<>(), ans);
         return ans;

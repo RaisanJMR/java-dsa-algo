@@ -1,5 +1,7 @@
 
 // program to find all subset sums
+// !not in leetcode
+ 
 import java.util.*;
 
 public class SubsetSumOne {

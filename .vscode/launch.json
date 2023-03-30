@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "permutationOne",
+      "request": "launch",
+      "mainClass": "permutationOne",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "SubsetTwo",
+      "request": "launch",
+      "mainClass": "SubsetTwo",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "Subsets",
       "request": "launch",
       "mainClass": "Subsets",
