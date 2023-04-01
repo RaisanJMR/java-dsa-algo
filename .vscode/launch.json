@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "permutationApproachTwo",
+      "request": "launch",
+      "mainClass": "permutationApproachTwo",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "permutationOne",
       "request": "launch",
       "mainClass": "permutationOne",
