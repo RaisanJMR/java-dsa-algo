@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NQueensHashing",
+      "request": "launch",
+      "mainClass": "NQueensHashing",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "NQueens",
+      "request": "launch",
+      "mainClass": "NQueens",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "permutationApproachTwo",
       "request": "launch",
       "mainClass": "permutationApproachTwo",

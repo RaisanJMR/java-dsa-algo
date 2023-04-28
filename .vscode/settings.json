@@ -8,8 +8,10 @@
     "src/hashmap",
     "src/greedy",
     "src/bitmask",
-    "src/recursion"
+    "src/recursion",
+    "src/collection-framework"
   ],
   "java.project.outputPath": "bin",
-  "java.project.referencedLibraries": ["lib/**/*.jar"]
+  "java.project.referencedLibraries": ["lib/**/*.jar"],
+  "cmake.configureOnOpen": false
 }
