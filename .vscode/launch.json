@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PositionValueMatrix",
+      "request": "launch",
+      "mainClass": "PositionValueMatrix",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "sudokuSolver",
+      "request": "launch",
+      "mainClass": "sudokuSolver",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "NQueensHashing",
       "request": "launch",
       "mainClass": "NQueensHashing",
