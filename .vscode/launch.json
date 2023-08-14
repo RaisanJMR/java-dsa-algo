@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "KthPermutationOne",
+      "request": "launch",
+      "mainClass": "KthPermutationOne",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "KthPermutation",
+      "request": "launch",
+      "mainClass": "KthPermutation",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "PalindromePartioning",
+      "request": "launch",
+      "mainClass": "PalindromePartioning",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "McoloringProblem",
       "request": "launch",
       "mainClass": "McoloringProblem",
