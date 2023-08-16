@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RatInMaze",
+      "request": "launch",
+      "mainClass": "RatInMaze",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "KthPermutationOne",
       "request": "launch",
       "mainClass": "KthPermutationOne",
