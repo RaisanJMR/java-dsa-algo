@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FourSum",
+      "request": "launch",
+      "mainClass": "array.FourSum",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "GenerateSubArrays",
+      "request": "launch",
+      "mainClass": "GenerateSubArrays",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "MaxProductSubArray",
+      "request": "launch",
+      "mainClass": "MaxProductSubArray",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "RemoveElement",
+      "request": "launch",
+      "mainClass": "RemoveElement",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "RatInMaze",
       "request": "launch",
       "mainClass": "RatInMaze",

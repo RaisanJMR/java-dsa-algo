@@ -9,7 +9,10 @@
     "src/greedy",
     "src/bitmask",
     "src/recursion",
-    "src/collection-framework"
+    "src/dp",
+    "src/sorting",
+    "src/collection-framework",
+    "src/array"
   ],
   "java.project.outputPath": "bin",
   "java.project.referencedLibraries": ["lib/**/*.jar"],
