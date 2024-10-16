@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FourSumTwo",
+      "request": "launch",
+      "mainClass": "FourSumTwo",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "FourSum",
+      "request": "launch",
+      "mainClass": "FourSum",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "FourSum",
       "request": "launch",
       "mainClass": "array.FourSum",
