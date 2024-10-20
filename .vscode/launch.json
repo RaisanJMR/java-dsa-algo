@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SortInterval",
+      "request": "launch",
+      "mainClass": "SortInterval",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "XORBetter",
+      "request": "launch",
+      "mainClass": "XORBetter",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
+      "name": "XOR",
+      "request": "launch",
+      "mainClass": "XOR",
+      "projectName": "java-dsa-algo_ab933b00"
+    },
+    {
+      "type": "java",
       "name": "FourSumTwo",
       "request": "launch",
       "mainClass": "FourSumTwo",
